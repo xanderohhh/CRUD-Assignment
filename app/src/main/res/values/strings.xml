@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CRUD Assignment</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="all_records">All Records</string>
+    <string name="show_all_records">Show All Records</string>
+    <string name="show_record">Show Record</string>
+    <string name="description">Description</string>
+    <string name="add_record">Add Record</string>
+    <string name="new_record">New Record</string>
+    <string name="edit_record">Edit Record</string>
+    <string name="delete_record">Delete Record</string>
+    <string name="name">Name</string>
+    <string name="mock">Mock</string>
+    <string name="clear">Clear</string>
+    <string name="begin">Begin</string>
+    <string name="end">End</string>
+
+</resources>
